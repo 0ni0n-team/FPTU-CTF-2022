@@ -1,4 +1,4 @@
-chall name : char-rsa
+chall name : characters
 
 desc : FPTU security offers encryption for each character, is it worth ?
 
