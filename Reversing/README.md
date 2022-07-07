@@ -1,0 +1,4 @@
+- RE00, level: easy
+- RE01, level: medium
+- such_an_easy_chall: easy
+- injoker: medium
