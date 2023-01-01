@@ -1,1 +1,4 @@
-
+- RE01 - level: easy.
+- such_an_easy_chall - level: medium.
+- injoker - level: medium.
+- RE01 - level: medium.
